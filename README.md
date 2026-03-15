@@ -7,6 +7,8 @@
 ### 🌐 Live Demo
 ### https://doctorcheap.netlify.app/
 
+For the code contact me or inbox me
+
 ------------------------------------------------------------------------
 
 # 🧠 Platform Overview
